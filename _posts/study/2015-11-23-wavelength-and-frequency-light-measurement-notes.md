@@ -29,5 +29,3 @@ with $$n_{air} = \frac{c_{vacuum}}{c_{air}}$$
 and $$n_{medium} = \frac{c_{vacuum}}{c_{medium}}$$
 
 $$n_{medium}$$ is called the medium's index of refraction and is more commonly used to specify the optical properties of a material than $$c_{medium}$$.
-
->👇 Please find more posts related to Light Measurement by clicking the following light measurement tag.

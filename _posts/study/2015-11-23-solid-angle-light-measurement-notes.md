@@ -29,5 +29,3 @@ Although Ω is dimensionless, it is common to use the unit **steradian (sr)**.
 The observer's total visual field is described by the whole surface of the sphere, which is given by \\(4\pi {r^2}\\), and thus covers the solid angle:
 
 $${\Omega _{total}} = {4\pi {r^2} \over {r^2}} = 4\pi \;sr = 12.57\;sr$$
-
->👇 Please find more posts related to Light Measurement by clicking the following light measurement tag.
