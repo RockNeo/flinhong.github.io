@@ -2,7 +2,7 @@
 layout: post
 title:  Python2中的除法
 tags:
-    - Python Study
+    - python
 category: Study
 
 image: http://i68.tinypic.com/2wqhp42.png
