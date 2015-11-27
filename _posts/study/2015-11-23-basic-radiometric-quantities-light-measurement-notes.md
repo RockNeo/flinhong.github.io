@@ -2,10 +2,9 @@
 layout: post
 title: Basic radiometric quantities
 tags:
-  - light measurement
-  - radiometric quantity
-category: study
-image: http://www.luxrender.net/wiki/images/3/33/Radiance_schematic.jpg
+  - radiometric
+category: Study
+image: http://i63.tinypic.com/x1zkv5.jpg
 description: The whole discipline of optical measurement techniques can be roughly subdivided into the two areas of photometry and radiometry. Whereas the central problem of photometry is the determination of optical quantities closely related to the sensitivity of the human eye, radiometry deals with the measurement of energy per time (that is power, given in watts) emitted by light sources or impinging on a particular surface. Thus, the units of all radiometric quantities are based on watts (W).
 math: true
 ---

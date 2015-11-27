@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Web中内嵌内容实现响应式效果，自适应屏幕宽度
-category: design
-tags: css responsive html
-image: http://johnpolacek.github.io/scrolldeck.js/decks/responsive/img/responsive_web_design.png
+category: Design
+tags: responsive html
+image: http://i68.tinypic.com/2mwbbif.jpg
 description: 在这篇文章中，将会向您介绍如何使用CSS将嵌套进来的内容具有响应式的效果，比如说视频、日历等能随着浏览器的窗口大小自动调整。对于在网页上嵌入外部视频，而又不想添加额外的标签，我们也将会介绍如何使用JavaScript来替代CSS，让其在响应式设计的网站中能自动调整。
 ---
 

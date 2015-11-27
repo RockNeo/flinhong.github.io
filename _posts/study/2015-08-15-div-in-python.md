@@ -3,10 +3,9 @@ layout: post
 title:  Python2中的除法
 tags:
     - Python Study
-    - 除法
-category: study
+category: Study
 
-image: http://www.rc-tech.cc/wp-content/uploads/2015/03/python.png
+image: http://i68.tinypic.com/2wqhp42.png
 description: Python在3.0之前，整数除法存在一个潜在的陷阱：一个整数被另一个整数除，计算结果的小数部分被截除了，只留下整数部分。有时候这个功能很有用，但通常情况需要普通的除法运算。
 ---
 

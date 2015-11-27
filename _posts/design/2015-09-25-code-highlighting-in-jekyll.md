@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Jekyll-based 博客中实现代码高亮
-category: design
+category: Design
 tags: jekyll highlighting
-image: http://i61.tinypic.com/10o44g9.png
+image: http://i66.tinypic.com/nn5d1l.png
 description: 之前使用别人的博客模板，代码高亮so easy的，直接在`_config`中设置`highlighter`为`pygments`就可以了。可是自己改了一个模板，加上没有认真读[Jekyll Docs](http://jekyllrb.com/docs/templates/)，代码高亮失效了。好吧，还是自己动手。
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  A Tale of Momentum & Inertia
-tags: share video CG
-category: media
+tags: video
+category: Media
 video: <iframe src="https://player.vimeo.com/video/105788896?badge=0" width="858" height="483" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 description: 一个可爱的小动画，挺逗，但获奖还不少！From an Original Story by Allan Turner and Kameron Gates
 ---

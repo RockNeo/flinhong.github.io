@@ -2,10 +2,9 @@
 layout: post
 title: LabVIEW中XY图曲线显示方法
 tags:
-  - LabVIEW Study
-  - xy graph
-category: study
-image: http://errantscience.com/wp-content/uploads/Labview-vs-Python.jpg
+  - LabVIEW
+category: Study
+image: http://i68.tinypic.com/2rm5fr8.png
 description: LabVIEW 中有很多图形显示控件，最常用的有三个：波形图（Waveform Graph），波形图（Waveform Chart），XY图（XY Graph）。这里就主要介绍一下XY图的使用。
 ---
 

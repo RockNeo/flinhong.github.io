@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 为Jekyll文章添加二维码
-category: design
-tags: jekyll qrcode
-image: http://img.huxiu.com/portal/201303/02/142031masiss3lsk6rzmzl.jpg
+category: Design
+tags: jekyll QRcode
+image: http://i67.tinypic.com/2cxagdl.jpg
 description: 自己动手，用jquery-qrcode生成二维码。
 ---
 

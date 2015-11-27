@@ -1,9 +1,9 @@
 ---
 layout: post
-category: reading
+category: Reading
 title: The Paper Menagerie - 纸异兽
 tags: reading
-image: http://1.bp.blogspot.com/_--Euq4854Ms/TEjyqY-RTgI/AAAAAAAABOM/rrGqCvWH5m4/s1600/mibo_littlepapercuts1.jpg
+image: http://i64.tinypic.com/jigoxf.jpg
 description: The Paper Menagerie原文发表在 *Fantasy & Science Fiction* 上，[io9](http://io9.com/5958919/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-and-world-fantasy-awards)有原文的转载。作者Ken Liu，译名是**刘宇昆**。该作品获得过 the Hugo, the Nebula and the World Fantasy Award 三个主要奖项。
 ---
 

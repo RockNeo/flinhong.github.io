@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Atom中为markdown自定义snippets
-category: design
-tags: atom snippets
-image: https://i.github-camo.com/0640a63a979adc7350080305a0ef670095813966/687474703a2f2f73372e64697265637475706c6f61642e6e65742f696d616765732f3134303431312f6b67646c677367782e676966
+category: Design
+tags: Atom snippets
+image: http://i63.tinypic.com/mt6xbt.png
 description: Snippets在书写代码的时候非常有用，当然写文章的时候也可以借用。换到Atom之后，也想在markdown文件中使用自定义的snippets，主要还是为了加YAML信息。今天自己尝试了一下，管用！
 ---
 

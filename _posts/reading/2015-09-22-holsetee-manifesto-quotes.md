@@ -1,9 +1,9 @@
 ---
 layout: post
-category: reading
+category: Reading
 title: The Holstee Manifesto
-tags: life reading
-image: http://lovearm.com/images/holstee_manifesto.png
+tags: reading
+image: http://i66.tinypic.com/faynv9.jpg
 description: This is your life. 这就是你的生活 Do what you love, and do it often. 去做你喜爱的事情，多去做做。 If you don’t like something, change it. 如果你不喜欢它，就改变它。 If you don’t like your job, quit. 如果你不喜欢你的工作，那就辞了吧。
 ---
 
