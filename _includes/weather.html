@@ -12,7 +12,7 @@ $.get("http://ipinfo.io", function (response) {
     var lon = result[1];
     document.getElementById('city').value = response.city;
 
-    $.get("http://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+lon+"&units=metric&appid=2de143494c0b295cca9337e1e96b00e0", function (wdata) {
+    $.get("http://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+lon+"&units=metric&appid=6fe49f5ee6dd7ff81e5bc5404d93920b", function (wdata) {
       var temp = (wdata.main.temp);
       var weather = (wdata.weather[0].main);
       $("#temp").html(temp + "°C");
