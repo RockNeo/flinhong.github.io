@@ -6,7 +6,7 @@ tags:
   - LatTeX
   - MathJax
 category: Study
-image: http://i68.tinypic.com/2vum3bt.png
+image: http://i63.tinypic.com/2s64q2r.png
 description: Markdown自由书写的特性很好，唯独遇到数学公式时就要煞费苦心——每次都是先使用LaTeX书写，然后保存为图片，使用img标签进行引用，当公式很多的时候稍显复杂。本文的方法使用html的语法，在线生成LaTeX数学公式，免去将公式保存为图片的麻烦。当然，弊端也是有的，公式太多，可能会造成刷新比一般的网页慢一些。
 math: true
 ---

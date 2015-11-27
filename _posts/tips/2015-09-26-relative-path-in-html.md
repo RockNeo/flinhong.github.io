@@ -1,9 +1,9 @@
 ---
 layout: post
-category: tips
+category: Tips
 title: HTML 相对路径和绝对路径区别分析
 tags: html path
-image: http://www.w3.org/wiki/images/5/5d/Path.png
+image: http://i66.tinypic.com/15e921f.png
 description: HTML初学者会经常遇到这样一个问题，如何正确引用一个文件。比如，怎样在一个HTML网页中引用另外一个HTML网页作为超链接(hyperlink)？怎样在一个网页中插入一张图片。如果你在引用文件时(如加入超链接，或者插入图片等)，使用了错误的文件路径，就会导致引用失效(无法浏览链接文件，或无法显示插入的图片等)。
 ---
 

@@ -2,10 +2,10 @@
 layout: post
 title: Wavelength and frequency
 tags:
-  - light measurement
   - wavelength
-category: study
-image: http://www.sengpielaudio.com/SpectrumOfElectromagneticRadiation.gif
+  - frequency
+category: Study
+image: http://i68.tinypic.com/2ikpbn7.png
 description: The wavelength and frequency of light are closely related. The higher the frequency, the shorter the wavelength. Because all light waves move through a vacuum at the same speed, the number of wave crests passing by a given point in one second depends on the wavelength. That number, also known as the frequency, will be larger for a short-wavelength wave than for a long-wavelength wave.
 math: true
 ---

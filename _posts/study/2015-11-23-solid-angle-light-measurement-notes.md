@@ -2,10 +2,9 @@
 layout: post
 title: Definition of solid angle
 tags:
-  - light measurement
   - solid angle
-category: study
-image: http://www.globalspec.com/RefArticleImages/9FFA076C5D8F886C319E944239368CA0_25_Photonics_and_Lasers-3.gif
+category: Study
+image: http://i64.tinypic.com/rtniir.png
 description: In geometry, a solid angle is the two-dimensional angle in three-dimensional space that an object subtends at a point. It is a measure of how large the object appears to an observer looking from that point. In the International System of Units, a solid angle is expressed in a dimensionless unit called a steradian.
 math: true
 ---

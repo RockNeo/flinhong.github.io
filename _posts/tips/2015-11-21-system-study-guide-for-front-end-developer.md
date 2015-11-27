@@ -1,9 +1,9 @@
 ---
 layout: post
-category: tips
+category: Tips
 title: 零基础如何系统地学习前端开发？
 tags: study
-image: http://blog.aftercollege.com/wp-content/uploads/2013/05/coding_illustration_smaller1-608x400.jpg
+image: http://i66.tinypic.com/5evq5j.png
 description: 网站开发开发大致分为前端和后端，前端主要负责实现视觉和交互效果，以及与服务器通信，完成业务逻辑。其核心价值在于对用户体验的追求。可以按如下思路学习系统学习。
 ---
 

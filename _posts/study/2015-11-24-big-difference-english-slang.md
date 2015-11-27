@@ -2,9 +2,9 @@
 layout: post
 title: 那些和表面意思相差天远的英语俚语
 tags:
-  - English study
-category: study
-image: http://www.littlegeeklost.com/wp-content/uploads/2015/08/Slang-Wordle.jpg
+  - English slang
+category: Study
+image: http://i66.tinypic.com/21dq4cp.jpg
 description: 学习英语很多年，但是与老外交流的时候还是经常听不懂他们的话。这其中一个很重要的原因就是老外在说地道英语的时候会运用到一些俚语，但是这些俚语往往与字面意思相差甚远。
 ---
 
