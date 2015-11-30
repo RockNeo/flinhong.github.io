@@ -19,17 +19,17 @@ Endnote在官网给出了一个补丁：[http://endnote.com/kb/137576](http://en
 4. Right click the downloaded zip file, and select “Extract All…”, and extract it to a temporary location you like (i.e. Desktop).  After the extraction, it will open an Explorer window, with a folder “ResearchSoft” in it.
 5. Move the “ResearchSoft” folder inside that folder to the appropriate Common Program Files folder depends on your system:
 
- 1. If you are running 32-bit version of Windows there is no “C:\Program Files (x86)”, move the “ResearchSoft” folder to:
+  \* If you are running 32-bit version of Windows there is no “C:\Program Files (x86)”, move the “ResearchSoft” folder to:
 C:\Program Files\Common Files
 
- 2. If you are running 64-bit version of Windows, and you downloaded X74_CWYW_X86.zip (for Word 2016 32-bit), move the “ResearchSoft” folder to:
+  \* If you are running 64-bit version of Windows, and you downloaded X74_CWYW_X86.zip (for Word 2016 32-bit), move the “ResearchSoft” folder to:
 C:\Program Files (x86)\Common Files
 
- 3. If you are running 64-bit version of Windows, and you downloaded X74_CWYW_X64.zip (for Word 2016 64-bit), move the “ResearchSoft” folder to:
+  \* If you are running 64-bit version of Windows, and you downloaded X74_CWYW_X64.zip (for Word 2016 64-bit), move the “ResearchSoft” folder to:
 C:\Program Files\Common Files
 
- 4. Select “Continue” if you are prompted to provide administrative permission to move the folder.
- 
+  \* Select “Continue” if you are prompted to provide administrative permission to move the folder.
+
 6. Double click the “ResearchSoft” folder in Common Program Files folder, then “Cwyw”, and then “17”.
 7. Right click the “InstallCWYW.bat”, and select “Run as administrator”, and click “Yes” in the User Account Control elevation prompt.
 8. Launch Word again, you should see the “EndNote X7” or “EndNote” ribbon tab, depends on whether you have EndNote X7 installed, and have selected the EndNote X7 or EndNote online tools. See [this article](http://kbportal.thomson.com/articleRedirect.aspx?aid=82605|) to swap between EndNote X7 and EndNote online.
