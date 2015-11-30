@@ -32,7 +32,7 @@ C:\Program Files\Common Files
 
 6. Double click the “ResearchSoft” folder in Common Program Files folder, then “Cwyw”, and then “17”.
 7. Right click the “InstallCWYW.bat”, and select “Run as administrator”, and click “Yes” in the User Account Control elevation prompt.
-8. Launch Word again, you should see the “EndNote X7” or “EndNote” ribbon tab, depends on whether you have EndNote X7 installed, and have selected the EndNote X7 or EndNote online tools. See [this article](http://kbportal.thomson.com/articleRedirect.aspx?aid=82605) to swap between EndNote X7 and EndNote online.
+8. Launch Word again, you should see the “EndNote X7” or “EndNote” ribbon tab, depends on whether you have EndNote X7 installed, and have selected the EndNote X7 or EndNote online tools.
 
 ---
 简单说来，就是先要确定自己的Office (Word)版本，看你装的是32位还是64位的Office，然后根据情况下载下面其中一个资源：
