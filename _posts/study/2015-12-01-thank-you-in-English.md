@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “致谢”在英语中的各种用法和客套用语
+title: 致谢在英语中的各种用法和客套用语
 tags:
   - English
 category: Study
