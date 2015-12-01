@@ -5,14 +5,13 @@ category: Design
 tags: responsive html
 image: http://i68.tinypic.com/2mwbbif.jpg
 description: 在这篇文章中，将会向您介绍如何使用CSS将嵌套进来的内容具有响应式的效果，比如说视频、日历等能随着浏览器的窗口大小自动调整。对于在网页上嵌入外部视频，而又不想添加额外的标签，我们也将会介绍如何使用JavaScript来替代CSS，让其在响应式设计的网站中能自动调整。
+toc: true
 ---
 
 在这篇文章中，将会向您介绍如何使用CSS将嵌套进来的内容具有响应式的效果，比如说视频、日历等能随着浏览器的窗口大小自动调整。对于在网页上嵌入外部视频，而又不想添加额外的标签，我们也将会介绍如何使用JavaScript来替代CSS，让其在响应式设计的网站中能自动调整。
 
 > 本文由[大漠](http://www.w3cplus.com/)根据[Rachel McCollin](http://mobile.smashingmagazine.com/author/rachel-mccollin/?rel=author)的《[Making Embedded Content Work In Responsive Design](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/)》所译，如需转载此译文，需注明[英文出处](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/)。
 <br>作者：Rachel McCollin<br>译者：大漠
-
-{:toc}
 
 ## 嵌入内容的标记
 
