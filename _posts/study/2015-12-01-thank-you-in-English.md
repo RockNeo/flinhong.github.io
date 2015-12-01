@@ -73,5 +73,3 @@ B: Thank you. 谢谢。
 
 A: I wish you a pleasant journey. 祝你一路顺风。
 B: Thank you. 谢谢。
-
-{:toc}
