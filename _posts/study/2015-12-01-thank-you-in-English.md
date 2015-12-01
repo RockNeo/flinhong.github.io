@@ -4,7 +4,7 @@ title: “致谢”在英语中的各种用法和客套用语
 tags:
   - English
 category: Study
-image: http://i66.tinypic.com/21dq4cp.jpg
+image: http://i65.tinypic.com/2qsxctx.jpg
 description: "致谢"是世界各国人民都遵循的礼仪规范，由于各国的风俗习惯不同"致谢"的方式有所不同。 在英语国家，"致谢"用语用得极为广泛，大至巨大的帮助、馈赠等，小至回答询问、指路。
 ---
 
