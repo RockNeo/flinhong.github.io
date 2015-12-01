@@ -11,7 +11,7 @@ description: 之前使用别人的博客模板，代码高亮so easy的，直接
 
 在GitHub Pages中实现代码高亮有两个选择，一是自定义CSS，另一个是使用嵌入的Gists。
 
-# 自定义CSS样式
+## 自定义CSS样式
 
 要让Jekyll为你实现代码高亮，需要做以下三件事：
 
@@ -61,7 +61,7 @@ end
 .highlight pre code { display: block; white-space: pre; overflow-x: auto; word-wrap: normal; }
 {% endhighlight %}
 
-# 使用GitHub Gists
+## 使用GitHub Gists
 
 除了上述Jekyll内置的代码高亮外，另一种实现代码高亮的方法就是采用GitHub Gists。
 

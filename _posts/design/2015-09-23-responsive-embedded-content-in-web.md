@@ -12,7 +12,9 @@ description: 在这篇文章中，将会向您介绍如何使用CSS将嵌套进�
 > 本文由[大漠](http://www.w3cplus.com/)根据[Rachel McCollin](http://mobile.smashingmagazine.com/author/rachel-mccollin/?rel=author)的《[Making Embedded Content Work In Responsive Design](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/)》所译，如需转载此译文，需注明[英文出处](http://mobile.smashingmagazine.com/2014/02/27/making-embedded-content-work-in-responsive-design/)。
 <br>作者：Rachel McCollin<br>译者：大漠
 
-# 嵌入内容的标记
+{:toc}
+
+## 嵌入内容的标记
 
 在响应式设计的网页布局中有一些元素没有发挥好，直接损坏响应式设计的布局。其中之一就是`iframe`元素，因为有时候你需要在页面中嵌入外部资源，比如说YouTobe的视频，这个时候就需要用到`iframe`元素。
 
@@ -34,7 +36,7 @@ description: 在这篇文章中，将会向您介绍如何使用CSS将嵌套进�
 
 幸运的是，接下来我们主要围绕CSS的方法来解决这个问题。首先向大家介绍如何让嵌入的视频解决这个问题，接下来就是嵌入的日历。
 
-# 响应式的视频
+## 响应式的视频
 
 ### HTML
 
@@ -98,7 +100,7 @@ description: 在这篇文章中，将会向您介绍如何使用CSS将嵌套进�
 
 让我们继续了解其他的嵌入内容——特别是google的日历。
 
-# 响应式日历
+## 响应式日历
 
 ### HTML
 
@@ -164,7 +166,7 @@ description: 在这篇文章中，将会向您介绍如何使用CSS将嵌套进�
 
 问题是，日历可以在整个页面是显示，但它几乎是无法使用，因为点击目标太小，甚至重要信息也看不到。如果你想完全显示日历，你也可以，你可以通过一些简单的CSS设置来实现(例如设置`display:block`或者`table`)，或者使用[w3widgets Responsive calendar](http://w3widgets.com/responsive-calendar/)或者[Calendario](http://tympanus.net/codrops/2012/11/27/calendario-a-flexible-calendar-plugin/)在你自己的日历上，你的用户会喜欢上。
 
-# 使用CSS或JavaScript实现响应式视频
+## 使用CSS或JavaScript实现响应式视频
 
 如果你正在使用一个CMS来开发一个响应式的网站，你可以通过一些编辑器嵌入一些视频。你可以通过你的编辑器来编辑[EmbedResponsively.com](http://embedresponsively.com/)，生成响应式的`<embed>`代码。实际上你可以通过javascript来解决，而不需要添加额外的标签和CSS。
 
@@ -187,7 +189,7 @@ iframe {
 
 这将确保你的视频会根据浏览器的宽度自动调整视频的宽度。但不会调整视频的高度，不幸的是，`iframe`中是行不通这种方式。因此，视频不会破坏你的布局，但它也不会怎么好看。所以这不是一个好的选择，如果能避免使用js还是尽量避免。
 
-# 响应式的Google地图
+## 响应式的Google地图
 
 除了在页面中嵌入视频和日历之外，还有就是在网站中嵌入地图。让嵌入的地图也具有响应式的功能。基本上采用的技术是相同的，同样通过`padding-bootm`来调整地图的宽度和高度的比例。
 
