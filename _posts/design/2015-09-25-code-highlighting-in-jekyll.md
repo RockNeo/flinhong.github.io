@@ -72,4 +72,4 @@ end
 <script src="https://gist.github.com/flinhong/9c155871dadb81927b20.js"></script>
 
 
-目前我还是采用第一种方法，Gists备用吧，貌似在手机上显示不是很好。
+目前我还是采用第一种方法，Gists备用吧。

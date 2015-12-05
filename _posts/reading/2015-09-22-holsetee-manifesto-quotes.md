@@ -1,10 +1,15 @@
 ---
 layout: post
 category: Reading
-title: The Holstee Manifesto
+title: The Holstee Manifesto —— 人生宣言
 tags: reading
 image: http://i66.tinypic.com/faynv9.jpg
 description: This is your life. 这就是你的生活 Do what you love, and do it often. 去做你喜爱的事情，多去做做。 If you don’t like something, change it. 如果你不喜欢它，就改变它。 If you don’t like your job, quit. 如果你不喜欢你的工作，那就辞了吧。
+---
+
+一生能有多少时间呢，想做什么就去做吧，只怕自己后悔，只怕时间不够。《人生宣言》道出了很多人的心声，与大伙共勉。
+
+[英文原文](https://www.goodreads.com/author/show/5777593.Holstee_Manifesto)
 ---
 
 This is your life.
@@ -74,5 +79,3 @@ Life is short.
 Live your dream and share your passion.
 
 勿忘梦想，共享激情。
-
-[Reference](https://www.goodreads.com/author/show/5777593.Holstee_Manifesto)
