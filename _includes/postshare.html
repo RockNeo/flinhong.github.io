@@ -61,13 +61,14 @@
   </script>
   <!-- End Baidu Share Buttons -->
   <br>
+  {% if page.previous.url %}
+    <a class="alignleft" href="{{ page.previous.url }}"><i class="fa fa-chevron-left"></i> {{ page.previous.title }}</a>
+  {% endif %}
+
+  {% if page.next.url %}
+    <a class="alignright" href="{{ page.next.url }}">{{ page.next.title }} <i class="fa fa-chevron-right"></i></a>
+  {% endif %}
+  <br>
 
 </div>
-{% if page.previous.url %}
-  <a class="alignleft" href="{{ page.previous.url }}"><i class="fa fa-chevron-left"></i> {{ page.previous.title }}</a>
-{% endif %}
-
-{% if page.next.url %}
-  <a class="alignright" href="{{ page.next.url }}">{{ page.next.title }} <i class="fa fa-chevron-right"></i></a>
-{% endif %}
 </div>
