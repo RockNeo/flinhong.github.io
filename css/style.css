@@ -183,7 +183,10 @@ pre {
     word-break: break-all;
     word-wrap: break-word;
     background-color: #f0f0f0;
-    border: 1px solid #eee
+
+    border-style:dotted dotted dotted solid;
+    border-width:0px 0px 0px 5px;
+    border-color:#f85050;
 }
 code,
 kbd,
