@@ -140,6 +140,10 @@ p {
 p a {
   color: #6dc066;
 }
+p code {
+  padding-left: 2px;
+  padding-right: 2px;
+}
 hr {
     height: 0;
     border: 0;
