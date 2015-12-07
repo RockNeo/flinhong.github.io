@@ -170,22 +170,22 @@ code {
   background-clip: padding-box;
   background-color: #f0f0f0;
   margin: 0px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 pre {
     overflow: auto;
     display: block;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin: 0 0 10px 3px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin: 0 0 10px 5px;
     line-height: 21px;
     word-break: break-all;
     word-wrap: break-word;
     background-color: #f0f0f0;
 
     border-style:dotted dotted dotted solid;
-    border-width:0px 0px 0px 2px;
+    border-width:0px 0px 0px 5px;
     border-color:#f85050;
 }
 code,
